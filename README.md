@@ -1,3 +1,4 @@
+![Image text](https://github.com/zl940722/react-fastify-typescript/blob/master/src/client/page/main/resource/admin.png)
 # start
 
 1. 安装yarn
